@@ -18,6 +18,8 @@ Key functionalities implemented in this portfolio website:
 
 ## Live Demo
 
+[![Imgur](https://imgur.com/C4KTvFw.gif)](https://moefqy.engineer/hireme-portfolio)
+
 Visit the live website: [HireMe Portfolio Website](https://moefqy.engineer/hireme-portfolio)
 
 ## Contact
