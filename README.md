@@ -17,7 +17,6 @@ Key functionalities implemented in this portfolio website:
 - Dynamic project showcase
 
 ## Live Demo
-[![Imgur](https://imgur.com/C4KTvFw.gif)](https://moefqy.engineer/hireme-portfolio)
 
 [![Imgur](https://imgur.com/C4KTvFw.gif)](https://moefqy.engineer/hireme-portfolio)
 
